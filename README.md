@@ -5,4 +5,4 @@ Nama  : Pandu Wiratama
 
 NIM   : 120140170
 
-<img src=https://https://github.com/PanduWiratama/UTS-SIG-120140170/blob/main/web.png width=50% height=50%>
+<img src=https://github.com/PanduWiratama/UTS-SIG-120140170/blob/main/web.png width=50% height=50%>
